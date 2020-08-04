@@ -13,3 +13,5 @@ TP2\embeddings
 TP2\embeddings\glove.twitter.27B.200d.txt
 TP2/embeddings/glove.twitter.27B.200d.txt
 TP2/models
+TP2/.ipynb_checkpoints
+TP2\.ipynb_checkpoints
